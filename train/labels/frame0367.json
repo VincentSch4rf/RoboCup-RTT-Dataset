@@ -1,0 +1,106 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "motor 7",
+      "points": [
+        [
+          539.5841584158416,
+          96.03960396039604
+        ],
+        [
+          478.1980198019802,
+          55.94059405940594
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "s40_40_G 8",
+      "points": [
+        [
+          545.5247524752475,
+          263.36633663366337
+        ],
+        [
+          456.9108910891089,
+          193.06930693069307
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "f20_20_G 9",
+      "points": [
+        [
+          370.7722772277227,
+          380.6930693069307
+        ],
+        [
+          316.81188118811883,
+          300.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bearing 10",
+      "points": [
+        [
+          144.50330745885088,
+          284.73442020511936
+        ],
+        [
+          175.22772277227722,
+          313.86138613861397
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "m20_100 11",
+      "points": [
+        [
+          59.38613861386139,
+          144.05940594059408
+        ],
+        [
+          99.980198019802,
+          226.23762376237627
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "axis 12",
+      "points": [
+        [
+          140.57425742574256,
+          5.940594059405937
+        ],
+        [
+          193.04950495049502,
+          51.48514851485148
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "frame0367.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

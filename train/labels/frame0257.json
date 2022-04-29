@@ -1,0 +1,106 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "axis 1",
+      "points": [
+        [
+          424.0783410138249,
+          0.0
+        ],
+        [
+          464.7373271889402,
+          32.25806451612903
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "m20 6",
+      "points": [
+        [
+          511.72886445598976,
+          211.90181173823333
+        ],
+        [
+          540.4205604892421,
+          183.89738416075042
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "motor 7",
+      "points": [
+        [
+          409.75115397968995,
+          360.65246631322657
+        ],
+        [
+          364.06068115153033,
+          286.15169826407157
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "s40_40_G 8",
+      "points": [
+        [
+          230.6359447004608,
+          331.7972350230415
+        ],
+        [
+          149.54412148656664,
+          241.54618839356704
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "f20_20_G 9",
+      "points": [
+        [
+          142.61751152073734,
+          170.96774193548387
+        ],
+        [
+          65.19815668202766,
+          126.26728110599079
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bearing 10",
+      "points": [
+        [
+          153.16596484764415,
+          10.735597030551634
+        ],
+        [
+          176.88147346896437,
+          35.154918725087796
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "frame0257.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

@@ -1,0 +1,106 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "motor 7",
+      "points": [
+        [
+          546.5148514851485,
+          109.4059405940594
+        ],
+        [
+          485.1287128712871,
+          69.3069306930693
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "s40_40_G 8",
+      "points": [
+        [
+          535.6237623762377,
+          279.2079207920791
+        ],
+        [
+          447.009900990099,
+          204.4554455445544
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "f20_20_G 9",
+      "points": [
+        [
+          345.029702970297,
+          383.16831683168317
+        ],
+        [
+          298.4950495049505,
+          300.99009900990103
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bearing 10",
+      "points": [
+        [
+          129.15677280538554,
+          271.8631330764064
+        ],
+        [
+          158.8910891089109,
+          300.990099009901
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "m20_100 11",
+      "points": [
+        [
+          56.41584158415843,
+          126.73267326732676
+        ],
+        [
+          101.46534653465349,
+          206.93069306930693
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "axis 12",
+      "points": [
+        [
+          155.0,
+          0.0
+        ],
+        [
+          203.94059405940592,
+          42.57425742574257
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "frame0361.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

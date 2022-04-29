@@ -1,0 +1,106 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "axis 1",
+      "points": [
+        [
+          330.90196078431387,
+          300.98039215686265
+        ],
+        [
+          358.3529411764706,
+          377.45098039215685
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "m20_100 2",
+      "points": [
+        [
+          504.43137254901956,
+          212.2549019607843
+        ],
+        [
+          576.4901960784314,
+          276.4705882352941
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bearing 3",
+      "points": [
+        [
+          524.0392156862746,
+          101.96078431372554
+        ],
+        [
+          552.9607843137254,
+          128.92156862745088
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "f20_20_G 4",
+      "points": [
+        [
+          424.0392156862746,
+          -0.9607843137254912
+        ],
+        [
+          451.0,
+          34.31372549019608
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "m20 6",
+      "points": [
+        [
+          103.94117647058829,
+          230.88235294117644
+        ],
+        [
+          131.88235294117652,
+          203.92156862745097
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "motor 7",
+      "points": [
+        [
+          172.078431372549,
+          75.49019607843137
+        ],
+        [
+          117.17647058823533,
+          34.80392156862743
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "frame0096.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

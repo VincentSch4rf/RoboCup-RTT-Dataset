@@ -1,0 +1,122 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "m20 6",
+      "points": [
+        [
+          408.5948631763545,
+          11.808118081180812
+        ],
+        [
+          432.9417266449892,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "motor 7",
+      "points": [
+        [
+          557.9009900990098,
+          133.16831683168317
+        ],
+        [
+          492.92345913558165,
+          95.9318256548902
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "s40_40_G 8",
+      "points": [
+        [
+          517.3069306930693,
+          301.980198019802
+        ],
+        [
+          429.9169924372511,
+          222.53845310730335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "f20_20_G 9",
+      "points": [
+        [
+          306.4158415841584,
+          382.1782178217822
+        ],
+        [
+          269.3325924429177,
+          298.5148514851486
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bearing 10",
+      "points": [
+        [
+          109.35093436927619,
+          247.47961465007597
+        ],
+        [
+          138.14447363103648,
+          275.32329763588604
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "m20_100 11",
+      "points": [
+        [
+          53.851889270559724,
+          97.5160638512831
+        ],
+        [
+          108.87593453222871,
+          175.35360678925036
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "axis 12",
+      "points": [
+        [
+          185.0,
+          0.0
+        ],
+        [
+          223.79531218427962,
+          29.71953930086886
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "frame0351.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

@@ -1,0 +1,106 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "axis 1",
+      "points": [
+        [
+          442.61751152073737,
+          5.0691244239631335
+        ],
+        [
+          494.69124423963126,
+          47.92626728110599
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "m20 6",
+      "points": [
+        [
+          500.56176018794577,
+          240.90765338393456
+        ],
+        [
+          529.2534562211981,
+          212.90322580645164
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "motor 7",
+      "points": [
+        [
+          371.1889400921659,
+          367.741935483871
+        ],
+        [
+          329.71428571428567,
+          294.47004608294947
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "s40_40_G 8",
+      "points": [
+        [
+          206.6728110599079,
+          307.8341013824885
+        ],
+        [
+          120.95852534562215,
+          226.26728110599083
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "f20_20_G 9",
+      "points": [
+        [
+          145.3824884792627,
+          135.48387096774195
+        ],
+        [
+          72.57142857142858,
+          101.84331797235023
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bearing 10",
+      "points": [
+        [
+          177.69585253456222,
+          0.0
+        ],
+        [
+          202.5253456221198,
+          16.129032258064516
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "frame0246.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

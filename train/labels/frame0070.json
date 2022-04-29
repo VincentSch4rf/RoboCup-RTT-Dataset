@@ -1,0 +1,106 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "axis 1",
+      "points": [
+        [
+          232.86274509803923,
+          294.1176470588236
+        ],
+        [
+          269.1372549019608,
+          367.6470588235294
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "m20_100 2",
+      "points": [
+        [
+          440.2156862745097,
+          293.13725490196083
+        ],
+        [
+          528.4509803921568,
+          337.7450980392157
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bearing 3",
+      "points": [
+        [
+          528.4509803921569,
+          174.50980392156868
+        ],
+        [
+          557.3725490196077,
+          201.47058823529417
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "f20_20_G 4",
+      "points": [
+        [
+          468.156862745098,
+          24.019607843137237
+        ],
+        [
+          520.6078431372548,
+          75.49019607843138
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "m20 6",
+      "points": [
+        [
+          93.64705882352942,
+          160.78431372549016
+        ],
+        [
+          119.62745098039215,
+          134.80392156862746
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "motor 7",
+      "points": [
+        [
+          218.6470588235294,
+          34.80392156862745
+        ],
+        [
+          172.078431372549,
+          0.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "frame0070.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}
